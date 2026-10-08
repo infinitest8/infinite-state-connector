@@ -1,0 +1,11 @@
+{
+  "name": "infinite-state-meditations",
+  "version": "0.1.0",
+  "description": "Find a selected free Infinite State binaural-beat session for stress, sleep, or focus.",
+  "author": { "name": "Infinite State LLC", "email": "hello@infinitestateapp.com" },
+  "homepage": "https://www.infinitestate.app",
+  "license": "MIT",
+  "keywords": ["meditation", "wellness", "stress", "sleep", "focus", "binaural-beats"],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}
